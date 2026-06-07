@@ -1,9 +1,9 @@
 name: virtual_gamepad
 description: "A highly responsive, reusable virtual gamepad UI package for Flutter. Generates standard 8-byte HID gamepad state arrays from on-screen interactions."
 version: 1.0.0
-homepage: https://github.com/yourusername/virtual_gamepad
-repository: https://github.com/yourusername/virtual_gamepad
-issue_tracker: https://github.com/yourusername/virtual_gamepad/issues
+homepage: https://github.com/haze0e/bluetooth_gamepad
+repository: https://github.com/haze0e/bluetooth_gamepad
+issue_tracker: https://github.com/haze0e/bluetooth_gamepad/issues
 
 environment:
   sdk: ^3.12.1
